@@ -30,7 +30,6 @@ It allows users to quickly create a QR code image that can be scanned using a sm
 qrify/
 │
 ├── qr_code_generator.py
-├── sarkariresult.png
 └── README.md
 
 ---
